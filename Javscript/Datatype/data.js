@@ -1,0 +1,3 @@
+function displayed () {
+    alert(GM)
+}
